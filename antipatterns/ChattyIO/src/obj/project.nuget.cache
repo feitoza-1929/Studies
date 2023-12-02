@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxfnZSszUGhWt65FRviv1D8YlsUlT0BdU71oAFvwkWCsYtvqKxSmvApL93XGXKftnsOjro1q2UmuRKx5+NTpVA==",
+  "dgSpecHash": "G0tEH6xNdquBqvXEozcmWim+l7aGv28C71XqR/fVFOO32BDiCekqSSFoAyoCE7WRVLsQTxbcfgyYLd41sckYpQ==",
   "success": true,
-  "projectFilePath": "/home/feitoza/Documents/StudyWorkspace/antipatterns/ChattyIO/src/ChattyIO.csproj",
+  "projectFilePath": "/home/feitoza/Documents/Studies/antipatterns/ChattyIO/src/ChattyIO.csproj",
   "expectedPackageFiles": [
     "/home/feitoza/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/home/feitoza/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

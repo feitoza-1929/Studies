@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mutex.h": "c",
+        "semaphore.h": "c",
+        "stdlib.h": "c"
+    }
+}

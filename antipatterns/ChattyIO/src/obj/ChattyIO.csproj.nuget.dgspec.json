@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/feitoza/Documents/StudyWorkspace/antipatterns/ChattyIO/src/ChattyIO.csproj": {}
+    "/home/feitoza/Documents/Studies/antipatterns/ChattyIO/src/ChattyIO.csproj": {}
   },
   "projects": {
-    "/home/feitoza/Documents/StudyWorkspace/antipatterns/ChattyIO/src/ChattyIO.csproj": {
+    "/home/feitoza/Documents/Studies/antipatterns/ChattyIO/src/ChattyIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/feitoza/Documents/StudyWorkspace/antipatterns/ChattyIO/src/ChattyIO.csproj",
+        "projectUniqueName": "/home/feitoza/Documents/Studies/antipatterns/ChattyIO/src/ChattyIO.csproj",
         "projectName": "ChattyIO",
-        "projectPath": "/home/feitoza/Documents/StudyWorkspace/antipatterns/ChattyIO/src/ChattyIO.csproj",
+        "projectPath": "/home/feitoza/Documents/Studies/antipatterns/ChattyIO/src/ChattyIO.csproj",
         "packagesPath": "/home/feitoza/.nuget/packages/",
-        "outputPath": "/home/feitoza/Documents/StudyWorkspace/antipatterns/ChattyIO/src/obj/",
+        "outputPath": "/home/feitoza/Documents/Studies/antipatterns/ChattyIO/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/feitoza/.nuget/NuGet/NuGet.Config"
