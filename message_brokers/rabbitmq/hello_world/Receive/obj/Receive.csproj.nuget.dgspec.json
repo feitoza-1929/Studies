@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Receive/Receive.csproj": {}
+  },
+  "projects": {
+    "/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Receive/Receive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Receive/Receive.csproj",
+        "projectName": "Receive",
+        "projectPath": "/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Receive/Receive.csproj",
+        "packagesPath": "/home/feitoza/.nuget/packages/",
+        "outputPath": "/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Receive/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/feitoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/feitoza/.asdf/installs/dotnet-core/7.0.400/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

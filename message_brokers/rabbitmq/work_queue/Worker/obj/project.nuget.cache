@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/s9kkLBAMBoHOUJQXOx/mm4+XKs635zRhe4Uy7hko7SGKLM6D/Dt13I8YRgZ7LoqeHcW91qjd/G+P+kGshz0Q==",
+  "success": true,
+  "projectFilePath": "/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/Worker/Worker.csproj",
+  "expectedPackageFiles": [
+    "/home/feitoza/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/feitoza/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/feitoza/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

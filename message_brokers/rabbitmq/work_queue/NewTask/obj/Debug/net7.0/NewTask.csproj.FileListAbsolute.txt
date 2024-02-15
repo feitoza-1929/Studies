@@ -1,0 +1,17 @@
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/bin/Debug/net7.0/NewTask
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/bin/Debug/net7.0/NewTask.deps.json
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/bin/Debug/net7.0/NewTask.runtimeconfig.json
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/bin/Debug/net7.0/NewTask.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/bin/Debug/net7.0/NewTask.pdb
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.csproj.AssemblyReference.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.AssemblyInfoInputs.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.AssemblyInfo.cs
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.csproj.CoreCompileInputs.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.csproj.CopyComplete
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/refint/NewTask.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.pdb
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/NewTask.genruntimeconfig.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/work_queue/NewTask/obj/Debug/net7.0/ref/NewTask.dll

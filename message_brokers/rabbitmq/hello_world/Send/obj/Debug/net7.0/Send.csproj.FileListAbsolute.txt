@@ -1,0 +1,17 @@
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/bin/Debug/net7.0/Send
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/bin/Debug/net7.0/Send.deps.json
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/bin/Debug/net7.0/Send.runtimeconfig.json
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/bin/Debug/net7.0/Send.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/bin/Debug/net7.0/Send.pdb
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.csproj.AssemblyReference.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.AssemblyInfoInputs.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.AssemblyInfo.cs
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.csproj.CoreCompileInputs.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.csproj.CopyComplete
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/refint/Send.dll
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.pdb
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/Send.genruntimeconfig.cache
+/home/feitoza/Documents/Studies/message_brokers/rabbitmq/hello_world/Send/obj/Debug/net7.0/ref/Send.dll
