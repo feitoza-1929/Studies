@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Signature Checker</title>
+</head>
+<body>
+    <input type="file" id="file-input"><input>
+    <p id="result-message"></p>
+    <script>
+        const fileInput = document.getElementById("file-input");
+        const resultMessageDisplay = document.getElementById("result-message");
+
+
+        fileInput.addEventListener("change", handleFileSelection);
+
+        function handleFileSelection(event) {
+            const file = event.target.files[0];
+            const fileSliced = file.slice(0, 15)
+            
+            const fileExtension = file.name.split('\.').at(-1);
+
+            const reader = new FileReader();
+            reader.onload = (e) => {   
+                const arrayBuffer = e.target.result;
+                const uint8Array = new Uint8Array(arrayBuffer);
+
+                let fakeSignature = "NaN";
+                let realSignature = "NaN";
+                const hexSiganture = hexSigantures.get(fileExtension);
+                const isSignatureReal = uint8Array.slice(0, hexSiganture.sizeByte).toHex() == hexSiganture.hex;
+                if(!isSignatureReal)
+                {            
+                    hexSigantures.forEach(element => {
+                        if (uint8Array.slice(0, element.sizeByte).toHex() == element.hex){
+                            realSignature = element.type;
+                            return true;
+                        }
+                    });
+                    fakeSignature = fileExtension;
+                }
+                else
+                {
+                    realSignature = fileExtension;
+                }
+
+                resultMessageDisplay.textContent = 
+                `
+                Has Signatures Matched: ${isSignatureReal} |
+                Real Signature: ${realSignature} |
+                Fake Signature: ${fakeSignature}
+                `;
+            };
+
+            console.log(file.name)
+            console.log(fileExtension);
+            reader.readAsArrayBuffer(fileSliced);
+        }
+
+        const hexSigantures = new Map([
+            ["png", {hex: "89504e470d0a1a0a", sizeByte: 8, type: "png"}],
+            ["jpg", {hex: "ffd8", sizeByte: 2, type: "jpg"}],
+            ["jpeg", {hex: "ffd8ff", sizeByte: 3, type: "jpeg"}]
+        ]);
+    </script>
+</body>
+</html>
